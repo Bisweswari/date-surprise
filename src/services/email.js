@@ -8,7 +8,7 @@ export async function sendResponse(answers) {
   const now = new Date();
 
   const templateParams = {
-    name: "❤️ She Said YES ❤️",
+    name: "❤️ He Said YES ❤️",
     accepted: "YES ❤️",
 
     q1: answers[0] || "",
