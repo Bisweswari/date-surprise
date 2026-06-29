@@ -50,15 +50,15 @@ const questions = [
     ]
   },
   {
-    id: 6,
-    question: "💳 Who should pay for our date?",
-    options: [
-      "🙋 I'll Treat You",
-      "🙋 You Treat Me",
-      "💖 Let's Split It",
-      "🎲 Rock, Paper, Scissors!"
-    ]
-  }
+  id: 6,
+  question: "🥰 How excited are you for our date?",
+  options: [
+    "😍 I can't wait!",
+    "❤️ Super excited!",
+    "🥺 A little nervous",
+    "🤭 You'll find out soon!"
+  ]
+}
 ];
 
 export default questions;
