@@ -1,62 +1,62 @@
 const questions = [
   {
     id: 1,
-    question: "🌅 When should we go on our date?",
+    question: "📅 Which day sounds perfect for our date?",
     options: [
       "❤️ Wednesday",
       "🌙 Thursday",
       "🌇 Friday",
-      "🎁 Saurday"
+      "🌸 Saturday"
     ]
   },
   {
     id: 2,
-    question: "💕 What kind of date sounds perfect?",
+    question: "💕 What kind of date would you love?",
     options: [
-      "🍽 Romantic Dinner",
+      "🍽️ Romantic Dinner",
       "🎬 Movie Night",
-      "☕ Cozy Cafe",
-      "🌳 Beach side Walk"
+      "☕ Cozy Café",
+      "🌊 Beachside Walk"
     ]
   },
   {
     id: 3,
-    question: "📍 Where should we go?",
+    question: "📍 Where should we create our memories?",
     options: [
-      "🏖 Beach",
+      "🏖️ Beach",
       "🌆 Rooftop",
-      "🌲 Nature",
-      "🏡 Stay Home Together"
+      "🌳 Nature Park",
+      "🏡 Cozy Time at Home"
     ]
   },
   {
     id: 4,
-    question: "🍕 What should we eat?",
+    question: "🍽️ What should we enjoy together?",
     options: [
-      "🍕 Pizza / 🍔 Burger",
-      "🍝 Pasta / Noodles",
-      "🍣 Indian street foods",
-      "🍔 Depending on mood"
+      "🍕 Pizza & Burger",
+      "🍝 Pasta & Noodles",
+      "🌮 Indian Street Food",
+      "😋 Whatever We're Craving"
     ]
   },
   {
     id: 5,
-    question: "🍰 Dessert Time!",
+    question: "🍰 What's your dessert pick?",
     options: [
-      "🍦 Ice Cream / 🍫 Chocolate",
+      "🍦 Ice Cream",
       "🍰 Cake",
       "🧇 Waffles",
-      "🙈 Me 🥰",
+      "🥰 You ❤️"
     ]
   },
   {
     id: 6,
-    question: "💳 Who pays?",
+    question: "💳 Who should pay for our date?",
     options: [
-      "🙋 Me",
-      "🙋 You",
-      "💖 Split",
-      "🎲 Rock Paper Scissors"
+      "🙋 I'll Treat You",
+      "🙋 You Treat Me",
+      "💖 Let's Split It",
+      "🎲 Rock, Paper, Scissors!"
     ]
   }
 ];
